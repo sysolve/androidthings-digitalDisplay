@@ -13,7 +13,7 @@ Android Things Simple PIO扩展案例 - 数码管显示
 6. 104电容
 
 ![实物效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/photo.png)
-![面包板接线图](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/digitalDisplay_schematics.png)
+![面包板接线图](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/digitalDisplay_Sketch.png)
 
 目前树莓派、IMX6UL_PICO、IMX7D_PICO三种开发板，在扩展接口的定义和名称上有所差别，端口功能基本一致，名称有所不同。
 我已汇总如下，代码中com.sysolve.androidthings.utils.BoardSpec根据运行的设备会自动选择端口配置：
