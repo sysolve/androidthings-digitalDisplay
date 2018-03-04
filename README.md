@@ -41,15 +41,18 @@ FourDigitalActivity.java即为控制4位数码管显示的程序，运行前需�
 
 说明文档参见：
 
-![接线方式](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital.png)
+![接线方式](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital.png)
 
-![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital_show.png)
+![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital_show.png)
 
 各位数字的各段依次显示的效果
-![接线方式](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital1.webp)
+
+![接线方式](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital1.webp)
 
 0~9的数字，依次在数码管的各位上显示
-![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digita2.webp)
+
+![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digita2.webp)
 
 数码管显示4位数字
-![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digita3.webp)
+
+![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digita3.webp)
