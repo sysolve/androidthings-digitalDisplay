@@ -33,6 +33,7 @@ String gpioName = BoardSpec.getInstance().getGpioPin(BoardSpec.PIN_29);
 -->
 ```
 
+
 4位数码管显示
 ====
 FourDigitalActivity.java即为控制4位数码管显示的程序，运行前需要将AndroidManifest.xml中FourDigitalActivity的启动设置注释取消，并将MainActivity的启动设置注销掉。
@@ -45,14 +46,20 @@ FourDigitalActivity.java即为控制4位数码管显示的程序，运行前需�
 
 ![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital_show.png)
 
+testDigitalSegment
+==
 各位数字的各段依次显示的效果
 
 ![接线方式](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital1.webp)
 
+testDisplayDigital
+==
 0~9的数字，依次在数码管的各位上显示
 
 ![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital2.webp)
 
+display4Digitals
+==
 数码管显示4位数字
 
 ![连接效果](https://github.com/sysolve/androidthings-digitalDisplay/blob/master/4digital/4digital3.webp)
