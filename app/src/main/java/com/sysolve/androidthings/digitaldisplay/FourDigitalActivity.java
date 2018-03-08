@@ -22,8 +22,7 @@ import android.os.Handler;
 import android.util.Log;
 
 import com.google.android.things.pio.Gpio;
-import com.google.android.things.pio.GpioCallback;
-import com.google.android.things.pio.PeripheralManagerService;
+import com.google.android.things.pio.PeripheralManager;
 import com.sysolve.androidthings.utils.BoardSpec;
 
 import java.io.IOException;
@@ -42,7 +41,7 @@ public class FourDigitalActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        PeripheralManagerService service = new PeripheralManagerService();
+        PeripheralManager service = PeripheralManager.getInstance();
 
         try {
             /*
