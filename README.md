@@ -4,6 +4,9 @@ Android Things samples from Sysolve IoT Open Source Project
 Android Things Simple PIO扩展案例 - 数码管显示
 ====
 
+代码已升级到Android Things Developer Preview 8，建议先阅读我的《Android Things DP8新特性》一文，了解DP8中需要注意的地方。
+https://zhuanlan.zhihu.com/p/36168138
+
 这是一个Android Things Simple PIO的扩展案例，使用入门开发配件包中的以下配件：
 1. 1位数码管
 2. 1KΩ电阻 8个  （1%电阻-蓝色，色环：棕黑黑棕棕）
